@@ -50,6 +50,7 @@
 	border-radius: 0px 0px 10px 10px;
 	position: relative;
 	@include transition(all 400ms ease-out 0s);
+	height: 32vh !important;
 }
 .feature-box:hover .feature-content {
 	@include box-shadow ( 0 0 16px 10px rgba(0, 0, 0, 0.06) );
