@@ -5535,6 +5535,9 @@ select {
   border-bottom: 1px solid #eee;
 }
 
-
+.services-list li {
+  display: block !important;
+  margin-bottom: 8px; /* spacing between lines */
+}
 
 /*# sourceMappingURL=style.css.map */
